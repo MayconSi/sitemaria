@@ -1,0 +1,89 @@
+
+.about-header {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://via.placeholder.com/1920x600') no-repeat center center/cover;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+#containerr{
+    margin-top: 7rem;
+    
+}
+
+.about-section {
+    background-color: #fdfdfd;
+    padding: 4rem 2rem;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+
+.section-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #4d0000;
+}
+
+
+.text-muted {
+    color: #666;
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+
+#revealButton {
+    border: 2px solid #333;
+    color: #333;
+    transition: all 0.3s ease;
+}
+
+#revealButton:hover {
+    background-color: #4d0000;
+    color: white;
+}
+
+
+.curiosity-text {
+    display: none;
+    font-size: 1rem;
+    color: #555;
+    border-left: 4px solid #007bff;
+    padding-left: 1rem;
+    margin-top: 1rem;
+    font-style: italic;
+}
+
+
+.image-wrapper {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.image-overlay {
+    background: rgba(0, 0, 0, 0.6);
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    border-radius: 10px;
+}
+
+.image-wrapper:hover .image-overlay {
+    opacity: 1;
+}
+
+.overlay-text {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+
+@media (max-width: 768px) {
+    .section-title {
+        font-size: 2rem;
+    }
+    .text-muted {
+        font-size: 1rem;
+    }
+}
