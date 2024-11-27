@@ -11,6 +11,6 @@ function carregarComponente(id, arquivo) {
   }
   
   // Vai carregar dinamicamente qualquer componente (; 
-carregarComponente("head", "./projeto/head.html");
-carregarComponente("navbar", "./projeto/navbar.html");
-carregarComponente("footer", "./projeto/footer.html");
+carregarComponente("head", "head.html");
+carregarComponente("navbar", "navbar.html");
+carregarComponente("footer", "footer.html");

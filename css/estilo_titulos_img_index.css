@@ -42,8 +42,8 @@ box-shadow: 0 4px 8px rgb(0, 49, 244);
 }
 
 .nav-link{
-    color: #f8f8f8;
+    color: #f8f8f8 !important;
 }
 .nav-link:hover{
-    color: #ff0000;
+    color: #ff0000 !important;
 }
