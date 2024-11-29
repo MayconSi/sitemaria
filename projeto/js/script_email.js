@@ -1,6 +1,6 @@
 
 (function() {
-    emailjs.init("wJud25MRd95IMFOuN"); 
+    emailjs.init("wJud25MRd95IMFOuN");  
 })();
 
 window.onload = function() {
@@ -8,6 +8,7 @@ window.onload = function() {
     document.getElementById('contact-form').addEventListener('submit', function(event) {
         event.preventDefault();  
 
+        
         emailjs.sendForm('service_cerumariny', 'template_ceru_mariny', this)  
             .then(function(response) {
                 console.log('SUCCESS!', response);
