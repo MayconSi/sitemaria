@@ -1,7 +1,7 @@
 const quadros = {
     mikaela: {
         nome: "MIKAELA",
-        descricao: "Ela é minha crença, meu fôlego e meu amor. Mikaela é o mar, mais precisamente a dona dele. É onde eu consigo descansar e me sentir segura, onde eu posso chorar e ser fraca. Mikaela é a representação daquilo que eu acredito. É a representação do meu axé.🌊",
+        descricao: "Ela é minha crença, meu fôlego e meu amor. Mikaela é o mar, mais precisamente a dona dele É onde eu consigo descansar e me sentir segura, onde eu posso chorar e ser fraca. Mikaela é a representação daquilo que eu acredito. É a representação do meu axé.🌊",
         imagens: ["./assets/mikaela2.png","./assets/mikaela1.png"],
         whatsapp: "557192729416",
         instagram: "https://www.instagram.com/ceru.mariny/",
