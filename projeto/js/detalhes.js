@@ -9,7 +9,7 @@ const quadros = {
     olamide: {
         nome: "OLAMIDE",
         descricao: "Depois de um tempo, volto com a Olamide. Ela é minha primeira tela de 2024, e também a que escancara nascimento. O renascer.Ela é vida. A esperança do viver, o querer ter, mesmo não conseguindo por seus caminhos mais viáveis. O processo da Olamide foi dificultoso, não por ela ser uma tela complicada, como já disse sobre outras. Mas sim pela situação em que ela foi parida.Ela me rendeu um olhar para dentro de mim, uma respiração funda de vamos agora.",
-        imagens: ["./assets/olamide3.png", "./assets/olamide2.png"],
+        imagens: ["./assets/OLAMIDE.png", "./assets/OLAMIDE.png"],
         whatsapp: "557192729416",
         instagram: "https://www.instagram.com/ceru.mariny/",
     },
