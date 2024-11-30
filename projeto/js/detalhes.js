@@ -16,7 +16,7 @@ const quadros = {
     vanessa: {
         nome: "VANESSA",
         descricao: "Na maioria das vezes que venho aqui, eu sempre tenho algo bem específico para falar sobre minhas telas. Eu sempre exponho os sentimentos reais os quais marcam cada parte colorida das minhas obras. Porém, hoje eu trago uma que é tudo;o ar que me falta;a dor de cabeça de todo dia; os pensamentos ruins de toda a hora;a tristeza. É a dificuldade de existir, ali quando você só se sente triste. Vanessa é tudo, tudo azul.Eu queria expressar nela a sensação de grandeza no que se sente, como se ela fosse constante igual a vida. Vanessa é a tristeza cotidiana. Um tom nem um pouco fácil de desabafar.",
-        imagens: ["./assets/VANESSA (2)", "./assets/VANESSA (2)"],
+        imagens: ["./assets/VANESSA (2).png", "./assets/VANESSA (2).png"],
         whatsapp: "557192729416",
         instagram: "https://www.instagram.com/ceru.mariny/",
     },
