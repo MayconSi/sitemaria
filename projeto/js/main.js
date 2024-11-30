@@ -10,7 +10,7 @@ function carregarComponente(id, arquivo) {
       .catch((error) => console.error(error));
   }
   
-  // Vai carregar dinamicamente qualquer componente (; 
+// Vai carregar dinamicamente qualquer componente (; 
 carregarComponente("head", "head.html");
 carregarComponente("navbar", "navbar.html");
 carregarComponente("footer", "footer.html");

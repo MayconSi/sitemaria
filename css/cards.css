@@ -88,25 +88,11 @@ a{
         border-bottom-right-radius: 20px;
         border-bottom-left-radius: 20px;
     }
-    .buy-1{
-        background-color: #ff0000;
-    }
+
     .buy-2{
         background-color: #000000;
     }
-    .buy-3{
-        background-color: #00fff2;
-    }
-    .buy-4{
-        background-color: #ffe600;
-    }
-    .buy-5{
-        background-color: #ff7b00;
-    }
-    .buy-6{
-        background-color: #26ff00;
-    }
-
+    
     @media(max-width:1000px){
         .content{
             width: 45%;
@@ -119,5 +105,18 @@ a{
         }
         
     }
+
+
+/*FILTRO INDEX*/
+   
+    .custom-color{
+        background-color: #985933;
+        color: #fff;
+    }
+    .custom-color:hover {
+        background-color: #7d482a; 
+    }
+    
+
 
     
