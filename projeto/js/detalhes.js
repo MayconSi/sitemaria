@@ -2,14 +2,14 @@ const quadros = {
     mikaela: {
         nome: "MIKAELA",
         descricao: "Ela é minha crença, meu fôlego e meu amor. Mikaela é o mar, mais precisamente a dona dele. É onde eu consigo descansar e me sentir segura, onde eu posso chorar e ser fraca. Mikaela é a representação daquilo que eu acredito. É a representação do meu axé.🌊",
-        imagens: ["./assets/mikaela2.png", "./assets/mikaela1.png"],
+        imagens: ["./assets/mikaela2.png","./assets/mikaela1.png"],
         whatsapp: "557192729416",
         instagram: "https://www.instagram.com/ceru.mariny/",
     },
     olamide: {
         nome: "OLAMIDE",
         descricao: "Depois de um tempo, volto com a Olamide. Ela é minha primeira tela de 2024, e também a que escancara nascimento. O renascer.Ela é vida. A esperança do viver, o querer ter, mesmo não conseguindo por seus caminhos mais viáveis. O processo da Olamide foi dificultoso, não por ela ser uma tela complicada, como já disse sobre outras. Mas sim pela situação em que ela foi parida.Ela me rendeu um olhar para dentro de mim, uma respiração funda de vamos agora.",
-        imagens: ["./projeto/olamide3.png", "./projeto/olamide2.png"],
+        imagens: ["./assets/olamide3.png", "./assets/olamide2.png"],
         whatsapp: "557192729416",
         instagram: "https://www.instagram.com/ceru.mariny/",
     },
