@@ -3,6 +3,7 @@
     font-size: 2rem;
     margin: 0;
     padding-top: 1.5rem;
+    color:rgb(49, 24, 24) ;
 }
 a{
     text-decoration: none;
@@ -91,6 +92,18 @@ a{
 
     .buy-2{
         background-color: #000000;
+    }
+
+    .buy-3{
+        background-color: #f70303;
+    }
+
+    .buy-4{
+        background-color: #0125f0;
+    }
+
+    .buy-5{
+        background-color: #985933;
     }
     
     @media(max-width:1000px){

@@ -3,7 +3,7 @@ function filterCards(color) {
     const cards = document.querySelectorAll('.content');
 
     cards.forEach(card => {
-        // Mostra todos os cardes apertando em all
+        // Mostra todos os cards apertando em all
         if (color === 'all') {
             card.style.display = 'block';
         } else {
