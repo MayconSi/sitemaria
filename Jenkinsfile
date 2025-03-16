@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Test') {
             steps {
-                echo 'pq não vai???'
+                echo 'Executando os testes...'
             }
         }
     }
