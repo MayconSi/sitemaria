@@ -1,1 +1,1 @@
- echo 'test3 2'
+ prit ('test3 2');
