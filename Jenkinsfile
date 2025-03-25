@@ -1,11 +1,1 @@
-pipeline {
-    agent any
-
-    stages {
-        stage('Test') {
-            steps {
-                echo 'aaaaEaassa';
-            }
-        }
-    }
-}
+print('ai meu deus');
